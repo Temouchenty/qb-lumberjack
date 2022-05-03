@@ -7,7 +7,7 @@ LumberJack Job is an Advanced Job customized with QBCore FrameWork.
 
 # Install
 
-Put folder in your resources and change name to qb-lumberjack, then change config and enjoy from script.
+Put folder in your resources and change name to qb-lumberjack, then change config and execute sql in your database. after that, enjoy from script.
 ```
 ensure qb-lumberjack
 ```
