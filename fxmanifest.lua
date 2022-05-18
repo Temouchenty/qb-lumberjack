@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 game 'gta5'
 
-author 'theMani_kh'
+author 'Mani'
 description 'an advacned Lumberjack job'
 
 server_scripts {
